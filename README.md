@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![alt text](images/signup.png)
 ![alt text](images/login.png)
-![alt text](images/dashboard.png)
 ![alt text](images/signup2.png)
 ![alt text](images/login2.png)
+![alt text](images/dashboard.png)
     
