@@ -1,0 +1,32 @@
+.card{
+    margin-top: 10px;
+    border: none;
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+    border-radius: 30px;
+    background: #D033AF;
+    background: -webkit-linear-gradient(bottom right, #D033AF, #2EDAB1);
+    background: -moz-linear-gradient(bottom right, #D033AF, #2EDAB1);
+    background: linear-gradient(to top left, #D033AF, #2EDAB1);
+
+}
+
+.card, h1, h6{
+    color: rgb(255, 255, 255);
+}
+
+.label{
+    color:rgb(255, 255, 255);
+}
+
+.form-control{
+    border-radius: 30px;
+}
+
+.body{
+    background: red;
+}
